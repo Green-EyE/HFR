@@ -5,6 +5,8 @@ This repository is to share High Frequency Report Scripts
 Created R folder with all R Scripts
 Created Tableau Folder with all Flows
 Try to commit 
+5/5/2021
+I was able to push from local to remote
 
 
 
